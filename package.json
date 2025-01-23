@@ -1,0 +1,16 @@
+{
+  "name": "winlife",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["winlife", "api", "balance"],
+  "author": "pressfpasha",
+  "license": "ISC",
+  "description": "A module to interact with the Winlife API",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "type": "module"
+}
