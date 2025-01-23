@@ -15,7 +15,7 @@
 const { WINLIFE } = require("winlife");
 
 const winlife = new WINLIFE({
-    apiKey: "yourApiKey",
+    apiKey: "yourApiKey"
 });
 ```
 
