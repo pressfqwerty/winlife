@@ -6,7 +6,7 @@
 
 -   **используя `npm`**
     ```shell
-    npm install payok
+    npm install winlife
     ```
 
 # 🛠️ Использование
