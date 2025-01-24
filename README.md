@@ -91,4 +91,4 @@ winlife.getTransactions({
 
 ## Changelog:
 
-**1.0.0** - Релиз библиотеки. Добавлен `Readme`
+**1.1.1** - Релиз библиотеки. Добавлен `Readme`
