@@ -87,6 +87,7 @@ winlife.getTransactions({
 | -------- | ------ | --------------------------------- | ------------ |
 | type     | string | Тип транзакции (to - входящие; from - исходящие)    | -            |
 
+> Если нашли ошибку, то создайте [ISSUES](https://github.com/pressfqwerty/winlife/issues/new)
 
 ## Changelog:
 
